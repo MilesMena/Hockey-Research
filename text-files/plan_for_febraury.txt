@@ -1,0 +1,9 @@
+first - get a proof of concept dirty little graph DLG --- have a graph for your model with the given game and the state changes.,... probably just find the points at the start and end and make a line. keep track of the lines, you can use something desmos to plot a piece-wise graph unless there is an easy to octave. 
+
+second - make DLG with Harvey and Will Model to compare
+
+Third: two options:
+1) improve the curve fitting (by taking more points and finding a best fit curve using a curve fitting algorithm via Num Analysis)
+2) Automate the process to get the DLG 
+
+-Dr. H

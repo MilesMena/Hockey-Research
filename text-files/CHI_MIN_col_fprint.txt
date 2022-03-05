@@ -1,0 +1,66 @@
+col10 =y(:,10);
+col9 =y(:,9);
+col10 =y(:,10);
+col6 =y(:,6);
+col26 =y(:,26);
+col33 =y(:,33);
+col31 =y(:,31);
+col24 =y(:,24);
+col26 =y(:,26);
+col33 =y(:,33);
+col57 =y(:,57);
+col55 =y(:,55);
+col53 =y(:,53);
+col55 =y(:,55);
+col57 =y(:,57);
+col33 =y(:,33);
+col57 =y(:,57);
+col50 =y(:,50);
+col43 =y(:,43);
+col50 =y(:,50);
+col57 =y(:,57);
+col50 =y(:,50);
+col57 =y(:,57);
+col55 =y(:,55);
+col57 =y(:,57);
+col81 =y(:,81);
+col79 =y(:,79);
+col55 =y(:,55);
+col57 =y(:,57);
+col81 =y(:,81);
+col79 =y(:,79);
+col81 =y(:,81);
+col57 =y(:,57);
+fprintf('0,%2.15f'col10(0))
+fprintf('274,%2.15f'col9(274))
+fprintf('394,%2.15f'col10(394))
+fprintf('754,%2.15f'col6(754))
+fprintf('759,%2.15f'col26(759))
+fprintf('791,%2.15f'col33(791))
+fprintf('977,%2.15f'col31(977))
+fprintf('1035,%2.15f'col24(1035))
+fprintf('1097,%2.15f'col26(1097))
+fprintf('1155,%2.15f'col33(1155))
+fprintf('1263,%2.15f'col57(1263))
+fprintf('1422,%2.15f'col55(1422))
+fprintf('1522,%2.15f'col53(1522))
+fprintf('1542,%2.15f'col55(1542))
+fprintf('1642,%2.15f'col57(1642))
+fprintf('2026,%2.15f'col33(2026))
+fprintf('2262,%2.15f'col57(2262))
+fprintf('2303,%2.15f'col50(2303))
+fprintf('2310,%2.15f'col43(2310))
+fprintf('2423,%2.15f'col50(2423))
+fprintf('2430,%2.15f'col57(2430))
+fprintf('2637,%2.15f'col50(2637))
+fprintf('2757,%2.15f'col57(2757))
+fprintf('2824,%2.15f'col55(2824))
+fprintf('2944,%2.15f'col57(2944))
+fprintf('2958,%2.15f'col81(2958))
+fprintf('3074,%2.15f'col79(3074))
+fprintf('3171,%2.15f'col55(3171))
+fprintf('3194,%2.15f'col57(3194))
+fprintf('3339,%2.15f'col81(3339))
+fprintf('3372,%2.15f'col79(3372))
+fprintf('3492,%2.15f'col81(3492))
+fprintf('3570,%2.15f'col57(3570))
